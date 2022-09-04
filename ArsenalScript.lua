@@ -140,7 +140,7 @@ ThemeButton.BorderSizePixel = 0
 ThemeButton.Position = UDim2.new(0.180999994, 0, 0, 0)
 ThemeButton.Size = UDim2.new(0, 104, 1, 0)
 ThemeButton.Font = Enum.Font.GothamSemibold
-ThemeButton.Text = "Awesome Bolts"
+ThemeButton.Text = "OP Bolts"
 ThemeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 ThemeButton.TextSize = 15.000
 
